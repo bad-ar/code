@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "loop",
+      "request": "launch",
+      "mainClass": "Java.loop",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
       "name": "input",
       "request": "launch",
       "mainClass": "Java.input",
