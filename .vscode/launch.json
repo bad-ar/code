@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RandomNumber",
+      "request": "launch",
+      "mainClass": "RandomNumber",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "condition",
+      "request": "launch",
+      "mainClass": "condition",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "ShopingCart",
+      "request": "launch",
+      "mainClass": "ShopingCart",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "IncrementDecrement",
+      "request": "launch",
+      "mainClass": "IncrementDecrement",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "ArithmeticOperation",
+      "request": "launch",
+      "mainClass": "ArithmeticOperation",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
       "name": "madlibsGame",
       "request": "launch",
       "mainClass": "madlibsGame",
