@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "madlibsGame",
+      "request": "launch",
+      "mainClass": "madlibsGame",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
       "name": "loop",
       "request": "launch",
       "mainClass": "Java.loop",
