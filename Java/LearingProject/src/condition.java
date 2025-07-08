@@ -22,5 +22,6 @@ public class condition {
         else{
             System.out.println("You are a child!");
         }
+        input.close();
     }
 }

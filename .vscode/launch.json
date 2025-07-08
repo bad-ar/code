@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "nestedIfElse",
+      "request": "launch",
+      "mainClass": "nestedIfElse",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "compoundInterest",
+      "request": "launch",
+      "mainClass": "compoundInterest",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "MathOperation2",
+      "request": "launch",
+      "mainClass": "MathOperation2",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "Math_Operation",
+      "request": "launch",
+      "mainClass": "Math_Operation",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
       "name": "RandomNumber",
       "request": "launch",
       "mainClass": "RandomNumber",
