@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringMethod",
+      "request": "launch",
+      "mainClass": "StringMethod",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "Array2D",
+      "request": "launch",
+      "mainClass": "Array2D",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Switch",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "temperatureConversion",
+      "request": "launch",
+      "mainClass": "temperatureConversion",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "ternaryOperator",
+      "request": "launch",
+      "mainClass": "ternaryOperator",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "weightConverter",
+      "request": "launch",
+      "mainClass": "weightConverter",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "subString",
+      "request": "launch",
+      "mainClass": "subString",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "string",
+      "request": "launch",
+      "mainClass": "string",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
       "name": "nestedIfElse",
       "request": "launch",
       "mainClass": "nestedIfElse",
