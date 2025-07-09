@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "numberGuesingGame",
+      "request": "launch",
+      "mainClass": "numberGuesingGame",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
       "name": "StringMethod",
       "request": "launch",
       "mainClass": "StringMethod",
