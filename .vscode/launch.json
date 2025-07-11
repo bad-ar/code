@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "overloadedConstructorMain",
+      "request": "launch",
+      "mainClass": "overloadedConstructorMain",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "constructor",
+      "request": "launch",
+      "mainClass": "constructor",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
+      "name": "cp",
+      "request": "launch",
+      "mainClass": "cp",
+      "projectName": "code_45844d49"
+    },
+    {
+      "type": "java",
       "name": "OOP",
       "request": "launch",
       "mainClass": "OOP",
